@@ -7,3 +7,6 @@ https://guides.github.com/activities/hello-world/
 Commit Message を書け、とあるので以下。
 ---
 続く pull request にて diff がないかのような扱いになってしまったので、もう一度編集。
+---
+上記が加わる前の master でやり直したら、当然のようにconflict して、解決ボタンおしたら待たされすぎで、
+branch を作るところからやりなおし。
